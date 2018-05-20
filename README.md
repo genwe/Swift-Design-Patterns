@@ -6,7 +6,7 @@ Swift-Design-Patterns
 
 很显然我没有耐心看下去，只好在网上看一下别人写的例子和学习笔记来曲线救国。
 
-奈何对胃口的排版真心少，这里整理一下看的设计模式的文章
+奈何对胃口的排版真心少，这里整理一下看的设计模式的文章，所有的例子集中在一个playground中，模仿RxSwift的官方例子
 
 
 
@@ -18,3 +18,8 @@ Swift-Design-Patterns
 
 [设计模式学习笔记](http://www.cnblogs.com/wangjq/archive/2012/07/05/2573258.html)
 
+[Cocoa如何应用设计模式](http://www.cnblogs.com/pengyingh/articles/2346299.html)
+
+[Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
+
+[设计模式问答](https://mp.weixin.qq.com/s?__biz=MzAxNzA1ODY2OA==&mid=204772288&idx=1&sn=182ebf11253f80579f386f0c9cf4750e#rd)
